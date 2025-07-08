@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/saintdoresh-crypto-trader-mcp-claudedesktop-badge.png)](https://mseep.ai/app/saintdoresh-crypto-trader-mcp-claudedesktop)
+
 # Crypto Trader MCP Tool for Claude Desktop
 
 An MCP (Model Context Protocol) tool that provides cryptocurrency market data using the CoinGecko API, specifically designed for Claude Desktop.
